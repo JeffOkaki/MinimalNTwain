@@ -6,7 +6,5 @@
         xmlns:local="clr-namespace:MinimalNTwain"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+        <Image x:Name="TheImage"></Image>
 </Window>
